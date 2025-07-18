@@ -47,7 +47,7 @@ A comprehensive POC (Proof of Concept) evaluation and handoff system for streaml
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MikeWerkOrg/poc-flow.git
 cd poc-flow
 ```
 
