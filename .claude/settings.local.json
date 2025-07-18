@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx nuxi:*)",
+      "Bash(mkdir:*)",
+      "Bash(yarn install)",
+      "Bash(npm install:*)",
+      "Bash(rm:*)",
+      "Bash(npm run postinstall:*)"
+    ],
+    "deny": []
+  }
+}
